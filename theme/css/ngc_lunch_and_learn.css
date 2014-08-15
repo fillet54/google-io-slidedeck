@@ -1,0 +1,16 @@
+slides > slide:not(.nobackground):before {
+  background: url(../../images/square-logo.png) no-repeat 0 50%;
+  -webkit-background-size: 30px 30px;
+  -moz-background-size: 30px 30px;
+  -o-background-size: 30px 30px;
+  background-size: 30px 30px;
+}
+
+.logoslide img {
+	width: 580px;
+	height: 116px;
+}
+
+aside.gdbar img {
+	margin: 6px 15px;
+}
